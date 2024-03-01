@@ -31,6 +31,9 @@ public class DaoClientService {
    }
     public long create(String name){
        long idNewClient;
+       if(name.length()>=1000 ||name.length()<=0 ){
+           throw new IllegalArgumentException("Length of your name is not valid");
+       }
         try {
             insertSt.setString(1, name);
             insertSt.executeUpdate();
@@ -59,6 +62,9 @@ public class DaoClientService {
         return client ;
     }
     public void setNameById(long id, String name){
+        if(name.length()>=1000 ||name.length()<=0 ){
+            throw new IllegalArgumentException("Length of your name is not valid");
+        }
         try {
             updateSt.setString(1, name);
             updateSt.setLong(2, id);
