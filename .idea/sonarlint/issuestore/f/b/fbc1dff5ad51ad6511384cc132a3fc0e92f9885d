@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É«–æ8€‰¡Îß1
+n	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦³öÔıÿÿÿÿ8ˆ‰¡Îß1
+t	java:S116"XRename this field "project_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üšë8ˆ‰¡Îß1
+J
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿ8”‰¡Îß1

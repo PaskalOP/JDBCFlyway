@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ú·îşÿÿÿÿ8ìÒŒıŞ1
+`
+java:S1854">Remove this useless assignment to local variable "connection".(Á¨üÊşÿÿÿÿ8óÒŒıŞ1
+W
+java:S2209"5Change this instance-reference to a static reference.(Á¨üÊşÿÿÿÿ8–ÓşŞ1
+Q
+java:S1481"/Remove this unused "connection" local variable.(Á¨üÊşÿÿÿÿ8øÒŒıŞ1

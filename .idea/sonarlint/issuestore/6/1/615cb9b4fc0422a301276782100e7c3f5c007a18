@@ -1,0 +1,39 @@
+
+a	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹¶¸õøÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Â •ü
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(àúùè
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Û½ƒÁùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(öùğøÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(öùğøÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŞÁÿ÷
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(½û¨ôûÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ü˜ßë
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹‹íp
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(˜ĞÅòşÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡ 
+H
+java:S6126"2Replace this String concatenation with Text block.(¡ 
+`
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(…´ôşÿÿÿÿ
+M
+java:S6126'"2Replace this String concatenation with Text block.(…´ôşÿÿÿÿ
+Q	java:S125‡"<This block of commented-out lines of code should be removed.(öçİL
+W	java:S125”"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+J
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿ8Î«Ğ¨ß1
+Y
+java:S1128"<Remove this unused import 'org.example.jdbcFlyway.Database'.(úÎ‡»8Ï«Ğ¨ß1
+D
+java:S1068".Remove this unused "connection" private field.(ÿ›ÅÒ

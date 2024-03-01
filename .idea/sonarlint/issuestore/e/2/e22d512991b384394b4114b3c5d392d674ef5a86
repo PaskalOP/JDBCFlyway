@@ -1,0 +1,14 @@
+
+`	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+ˆ
+java:S1192"mDefine a constant instead of duplicating this literal "Sorry, unable to find application.properties" 3 times.(¦ë›Úÿÿÿÿÿ
+s
+java:S1192"]Define a constant instead of duplicating this literal "dataForConnection.properties" 3 times.(ö±š—
+s
+java:S1488K"]Immediately return this expression instead of assigning it to the temporary variable "query".(‘Ñì
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹¶¸õøÿÿÿÿ
+U
+java:S1118	":Add a private constructor to hide the implicit public one.(ÍöÔóùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¦ë›Úÿÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(¦ë›Úÿÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(¦ë›Úÿÿÿÿÿ

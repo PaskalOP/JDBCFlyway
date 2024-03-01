@@ -1,0 +1,16 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ñéš©ß1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ú·îşÿÿÿÿ8öéš©ß1
+D
+java:S3010"'Remove this assignment of "connection".(ëÂº8˜êš©ß1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8³››©ß1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8´››©ß1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8´››©ß1
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8õÄœ©ß1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8õÄœ©ß1
